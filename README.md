@@ -13,7 +13,8 @@
 - [Prerequisites](#prerequisites)  
 - [Running the Application](#running-the-application)  
 - [API Endpoints](#api-endpoints)  
-- [Usage](#usage)  
+- [Usage](#usage)
+- [To Do](#ToDo)
 - [Authors](#authors)  
 
 
@@ -71,6 +72,15 @@ Follow these steps to start the application:
 1. On entering the URL , top 10 stories are displayed on the dashboard, on clicking the the links to articles , user naviagtes to the site where aricle was originally published.
 
 ---
+
+## To Do 
+
+1. For now it is a single wep page , which fetches articles from a single endpoint , which originally consumes 2 API endpoints from hackernews and dev.to,
+2. User gets to see a dashboard for articles which are top 5 articles fetched from both external APIs each
+3. I plan to add in features such as login and registration, upon registration, user gets to chose their interests and what particular tech stack they would want to know more about.
+4. and further using node library such as Natural, i will be training the content to be as per it.
+5. Additionally, the application will have tabs for different technologies, with content as per that. With that user can view the content of their interest.
+
 
 ## 👨‍💻 Authors
 
