@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <i>Tech News Aggregator fetches current articles for the user</i>
+  <i>Tech News Aggregator fetches current tech articles for the user</i>
 </p>
 
 ---
